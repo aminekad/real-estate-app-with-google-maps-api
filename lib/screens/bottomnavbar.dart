@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:real_estate_app/assets/screens/favoritespage.dart';
-import 'package:real_estate_app/assets/screens/homepage.dart';
-import 'package:real_estate_app/assets/screens/inboxpage.dart';
-import 'package:real_estate_app/assets/screens/profilepage.dart';
+import 'package:real_estate_app/screens/favoritespage.dart';
+import 'package:real_estate_app/screens/homepage.dart';
+import 'package:real_estate_app/screens/inboxpage.dart';
+import 'package:real_estate_app/screens/profilepage.dart';
 
 class BottomNavBar extends StatefulWidget {
   const BottomNavBar({Key? key}) : super(key: key);

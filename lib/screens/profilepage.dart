@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:real_estate_app/assets/screens/appbar.dart';
+import 'package:real_estate_app/screens/appbar.dart';
 import 'package:real_estate_app/consts/houseobj.dart';
 import 'package:real_estate_app/consts/ownerobj.dart';
 

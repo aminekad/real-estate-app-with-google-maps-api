@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:real_estate_app/assets/screens/appbar.dart';
+import 'package:real_estate_app/screens/appbar.dart';
 
 class InboxPage extends StatefulWidget {
   const InboxPage({Key? key}) : super(key: key);

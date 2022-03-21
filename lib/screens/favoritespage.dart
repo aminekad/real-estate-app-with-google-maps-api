@@ -5,9 +5,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter/painting.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
 import 'package:provider/provider.dart';
-import 'package:real_estate_app/assets/screens/appbar.dart';
-import 'package:real_estate_app/assets/screens/detailpage.dart';
-import 'package:real_estate_app/assets/screens/favorites_change_notifier.dart';
+import 'package:real_estate_app/screens/appbar.dart';
+import 'package:real_estate_app/screens/detailpage.dart';
+import 'package:real_estate_app/screens/favorites_change_notifier.dart';
 import 'package:real_estate_app/consts/houseobj.dart';
 import 'package:real_estate_app/consts/ownerobj.dart';
 

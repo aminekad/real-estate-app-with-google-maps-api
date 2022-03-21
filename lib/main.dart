@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
 import 'package:provider/provider.dart';
-import 'package:real_estate_app/assets/screens/drawer.dart';
-import 'package:real_estate_app/assets/screens/favorites_change_notifier.dart';
+import 'package:real_estate_app/screens/drawer.dart';
+import 'package:real_estate_app/screens/favorites_change_notifier.dart';
 import 'package:flutter/services.dart';
 import 'package:animated_splash_screen/animated_splash_screen.dart';
 

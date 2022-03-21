@@ -1,8 +1,8 @@
 // ignore_for_file: non_constant_identifier_names, prefer_const_constructors, prefer_const_literals_to_create_immutables
 
 import 'package:flutter/material.dart';
-import 'package:real_estate_app/assets/screens/appbar.dart';
-import 'package:real_estate_app/assets/screens/detailpage.dart';
+import 'package:real_estate_app/screens/appbar.dart';
+import 'package:real_estate_app/screens/detailpage.dart';
 import 'package:real_estate_app/consts/houseobj.dart';
 
 class HomePage extends StatefulWidget {

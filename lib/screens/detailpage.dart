@@ -2,10 +2,10 @@
 
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:real_estate_app/assets/screens/favoritespage.dart';
-import 'package:real_estate_app/assets/screens/googlemaps.dart';
-import 'package:real_estate_app/assets/screens/image.dart';
-import 'package:real_estate_app/assets/screens/favorites_change_notifier.dart';
+import 'package:real_estate_app/screens/favoritespage.dart';
+import 'package:real_estate_app/screens/googlemaps.dart';
+import 'package:real_estate_app/screens/image.dart';
+import 'package:real_estate_app/screens/favorites_change_notifier.dart';
 import 'package:real_estate_app/consts/houseobj.dart';
 
 class DetailPage extends StatefulWidget {
