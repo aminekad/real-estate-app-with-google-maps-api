@@ -5,6 +5,5 @@
 
 
 
-
 ![GIF2](google_maps.gif)
 ![GIF3](animated_drawer.gif)
