@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
       statusBarColor: Colors.transparent,
     ));
     return MaterialApp(
-      title: 'Real-Estate App 2',
+      title: 'Real-Estate App',
       debugShowCheckedModeBanner: false,
       theme:
           ThemeData(fontFamily: 'Inter', primaryColor: const Color(0xFFFFFFFF)),
